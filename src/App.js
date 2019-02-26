@@ -1,31 +1,21 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Title from './Title';
 
-class App extends Component {
-  render() {
+const a = ['Lucas', 'Paulo', 'Rogério', 'Elizete', 'Boby'];
+
+const App = (props) => {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <p>
-            <a className="App-link" href="https://github.com/facebook/create-react-app" target="_blank" rel="noopener noreferrer">Create React App</a>
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
-    );
-  }
+        
+        <div>
+            <Title title="Teste"></Title>
+            <ul>
+                {a.map(i=>{
+                    return <li>{i}</li>
+                })}
+            </ul>
+        </div>
+        
+    )
 }
 
-export default App;
+export default App
