@@ -4,6 +4,7 @@
 
   h1 {
     text-transform: capitalize;
+    text-align: center;
   }
 
   ul {
@@ -12,6 +13,33 @@
 
     li {
       margin-bottom: 10px;
+    }
+  }
+
+  .btn {
+    padding: 12px 10px;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+    margin: 0 10px;
+
+    
+
+    &.azul {
+      background-color: blue;
+      color: white;
+
+      &:first-child {
+        margin-left: 0 !important;
+      }
+    }
+    &.vermelho {
+      background-color: red;
+      color: black;
+    }
+    &.preto {
+      background-color: black;
+      color: white;
     }
   }
 

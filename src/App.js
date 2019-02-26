@@ -1,9 +1,10 @@
 import React from 'react';
 import Title from './Title';
 import Lista from './Lista';
+import Button from './Button';
 import './App.scss';
 
-const b = ['Huguinhho', 'Zezinho', 'Luisinho'];
+const b = ['Huguinho', 'Zezinho', 'Luisinho'];
 
 const App = (props) => {
     return (
@@ -17,6 +18,11 @@ const App = (props) => {
                     return <li>{i}</li>
                 })}
             </ul>
+            <Button cor="azul" texto="Botão 1"></Button>
+
+            <Button cor="vermelho" texto="Botão 2"></Button>
+
+            <Button cor="preto" texto="Botão 3"></Button>
         </div>
         
     )
