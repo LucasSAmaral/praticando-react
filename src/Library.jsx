@@ -6,7 +6,7 @@ class Library extends Component {
         return (
             <ul>
                 {LibraryData.map((classes)=>{
-                    return <li key={classes.class}>{classes.class}</li>
+                    return <li key={classes.class}>{`${classes.class}, ${classes.content}`}</li>
                 })}
             </ul>
         )
