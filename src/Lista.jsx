@@ -7,7 +7,7 @@ class Lista extends Component {
         return(
             <ul>
                 {a.map(i=>{
-                    return <li>{i}</li>
+                    return <li key={i}>{i}</li>
                 })}
             </ul>
         )

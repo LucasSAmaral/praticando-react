@@ -1,0 +1,964 @@
+{
+    "classes": [
+        {
+            "class": "icon-viagem-abrangencia",
+            "content": "e900"
+        },
+        {
+            "class": "icon-viagem-acessoria",
+            "content": "e901"
+        },
+        {
+            "class": "icon-viagem-bagagem",
+            "content": "e902"
+        },
+        {
+            "class": "icon-viagem-hospedagem",
+            "content": "e903"
+        },
+        {
+            "class": "icon-viagem-perda",
+            "content": "e904"
+        },
+        {
+            "class": "icon-viagem-pousar",
+            "content": "e905"
+        },
+        {
+            "class": "icon-viagem-seguro",
+            "content": "e906"
+        },
+        {
+            "class": "icon-vert-auto",
+            "content": "e907"
+        },
+        {
+            "class": "icon-vert-capitalizacao",
+            "content": "e908"
+        },
+        {
+            "class": "icon-vert-dental",
+            "content": "e909"
+        },
+        {
+            "class": "icon-vert-previdencia",
+            "content": "e90a"
+        },
+        {
+            "class": "icon-vert-residencial",
+            "content": "e90b"
+        },
+        {
+            "class": "icon-vert-saude",
+            "content": "e90c"
+        },
+        {
+            "class": "icon-vert-vida",
+            "content": "e90d"
+        },
+        {
+            "class": "icon-vb-beneficios",
+            "content": "e90e"
+        },
+        {
+            "class": "icon-vb-bercario",
+            "content": "e90f"
+        },
+        {
+            "class": "icon-vb-danca",
+            "content": "e910"
+        },
+        {
+            "class": "icon-vb-documentarios",
+            "content": "e911"
+        },
+        {
+            "class": "icon-vb-exposicoes",
+            "content": "e912"
+        },
+        {
+            "class": "icon-vb-facilidades",
+            "content": "e913"
+        },
+        {
+            "class": "icon-vb-jazz",
+            "content": "e914"
+        },
+        {
+            "class": "icon-vb-livro",
+            "content": "e915"
+        },
+        {
+            "class": "icon-vb-musical",
+            "content": "e916"
+        },
+        {
+            "class": "icon-vb-recompensas",
+            "content": "e917"
+        },
+        {
+            "class": "icon-vb-teatro",
+            "content": "e918"
+        },
+        {
+            "class": "icon-vb-todas",
+            "content": "e919"
+        },
+        {
+            "class": "icon-seta-baixo-a",
+            "content": "e91a"
+        },
+        {
+            "class": "icon-seta-baixo-b",
+            "content": "e91b"
+        },
+        {
+            "class": "icon-seta-baixo-c",
+            "content": "e91c"
+        },
+        {
+            "class": "icon-seta-cima-a",
+            "content": "e91d"
+        },
+        {
+            "class": "icon-seta-cima-b",
+            "content": "e91e"
+        },
+        {
+            "class": "icon-seta-cima-c",
+            "content": "e91f"
+        },
+        {
+            "class": "icon-seta-direita-a",
+            "content": "e920"
+        },
+        {
+            "class": "icon-seta-direita-b",
+            "content": "e921"
+        },
+        {
+            "class": "icon-seta-direita-c",
+            "content": "e922"
+        },
+        {
+            "class": "icon-seta-esquerda-a",
+            "content": "e923"
+        },
+        {
+            "class": "icon-seta-esquerda-b",
+            "content": "e924"
+        },
+        {
+            "class": "icon-seta-esquerda-c",
+            "content": "e925"
+        },
+        {
+            "class": "icon-saude-agendar-consulta",
+            "content": "e926"
+        },
+        {
+            "class": "icon-saude-ambulancia",
+            "content": "e927"
+        },
+        {
+            "class": "icon-saude-cardiograma",
+            "content": "e928"
+        },
+        {
+            "class": "icon-saude-dental-cirurgia",
+            "content": "e929"
+        },
+        {
+            "class": "icon-saude-dental-dentista",
+            "content": "e92a"
+        },
+        {
+            "class": "icon-saude-dental-endodontia",
+            "content": "e92b"
+        },
+        {
+            "class": "icon-saude-dental-odontopediatria",
+            "content": "e92c"
+        },
+        {
+            "class": "icon-saude-dental-pais",
+            "content": "e92d"
+        },
+        {
+            "class": "icon-saude-dental-periodontia",
+            "content": "e92e"
+        },
+        {
+            "class": "icon-saude-dental-prevencao",
+            "content": "e92f"
+        },
+        {
+            "class": "icon-saude-dental-protese",
+            "content": "e930"
+        },
+        {
+            "class": "icon-saude-dental-radiologia",
+            "content": "e931"
+        },
+        {
+            "class": "icon-saude-dermatologia",
+            "content": "e932"
+        },
+        {
+            "class": "icon-saude-diaria-hospitalar",
+            "content": "e933"
+        },
+        {
+            "class": "icon-saude-homeopatia",
+            "content": "e934"
+        },
+        {
+            "class": "icon-saude-hospital",
+            "content": "e935"
+        },
+        {
+            "class": "icon-saude-infantil",
+            "content": "e936"
+        },
+        {
+            "class": "icon-saude-medico",
+            "content": "e937"
+        },
+        {
+            "class": "icon-saude-planos-saude",
+            "content": "e938"
+        },
+        {
+            "class": "icon-saude-primeiros-socorros",
+            "content": "e939"
+        },
+        {
+            "class": "icon-residencial-antenas",
+            "content": "e93a"
+        },
+        {
+            "class": "icon-residencial-assist",
+            "content": "e93b"
+        },
+        {
+            "class": "icon-residencial-bens",
+            "content": "e93c"
+        },
+        {
+            "class": "icon-residencial-chaveiro",
+            "content": "e93d"
+        },
+        {
+            "class": "icon-residencial-cobertura",
+            "content": "e93e"
+        },
+        {
+            "class": "icon-residencial-descarte",
+            "content": "e93f"
+        },
+        {
+            "class": "icon-residencial-eletricista",
+            "content": "e940"
+        },
+        {
+            "class": "icon-residencial-encanador",
+            "content": "e941"
+        },
+        {
+            "class": "icon-residencial-explosao",
+            "content": "e942"
+        },
+        {
+            "class": "icon-residencial-linha-branca",
+            "content": "e943"
+        },
+        {
+            "class": "icon-residencial-lixeira",
+            "content": "e944"
+        },
+        {
+            "class": "icon-residencial-obra",
+            "content": "e945"
+        },
+        {
+            "class": "icon-residencial-patrimonio",
+            "content": "e946"
+        },
+        {
+            "class": "icon-residencial-personalizado",
+            "content": "e947"
+        },
+        {
+            "class": "icon-residencial-provisoria",
+            "content": "e948"
+        },
+        {
+            "class": "icon-residencial-quadros",
+            "content": "e949"
+        },
+        {
+            "class": "icon-residencial-raio",
+            "content": "e94a"
+        },
+        {
+            "class": "icon-residencial-reparo",
+            "content": "e94b"
+        },
+        {
+            "class": "icon-residencial-restaurante",
+            "content": "e94c"
+        },
+        {
+            "class": "icon-residencial-telhas",
+            "content": "e94d"
+        },
+        {
+            "class": "icon-residencial-vendaval",
+            "content": "e94e"
+        },
+        {
+            "class": "icon-residencial-vidraceiro",
+            "content": "e94f"
+        },
+        {
+            "class": "icon-residencial-vigilancia",
+            "content": "e950"
+        },
+        {
+            "class": "icon-redes-facebook",
+            "content": "e951"
+        },
+        {
+            "class": "icon-redes-google",
+            "content": "e952"
+        },
+        {
+            "class": "icon-redes-instagram",
+            "content": "e953"
+        },
+        {
+            "class": "icon-redes-linkedin",
+            "content": "e954"
+        },
+        {
+            "class": "icon-redes-twitter",
+            "content": "e955"
+        },
+        {
+            "class": "icon-redes-whatsapp",
+            "content": "e956"
+        },
+        {
+            "class": "icon-redes-youtube",
+            "content": "e957"
+        },
+        {
+            "class": "icon-nav-adicionar",
+            "content": "e958"
+        },
+        {
+            "class": "icon-nav-anexar",
+            "content": "e959"
+        },
+        {
+            "class": "icon-nav-apresentacao",
+            "content": "e95a"
+        },
+        {
+            "class": "icon-nav-atualizar",
+            "content": "e95b"
+        },
+        {
+            "class": "icon-nav-audio",
+            "content": "e95c"
+        },
+        {
+            "class": "icon-nav-baixar",
+            "content": "e95d"
+        },
+        {
+            "class": "icon-nav-busca",
+            "content": "e95e"
+        },
+        {
+            "class": "icon-nav-cadastrar-senha",
+            "content": "e95f"
+        },
+        {
+            "class": "icon-nav-compartilhar",
+            "content": "e960"
+        },
+        {
+            "class": "icon-nav-configuracoes",
+            "content": "e961"
+        },
+        {
+            "class": "icon-nav-conversa",
+            "content": "e962"
+        },
+        {
+            "class": "icon-nav-desligar",
+            "content": "e963"
+        },
+        {
+            "class": "icon-nav-editar",
+            "content": "e964"
+        },
+        {
+            "class": "icon-nav-fechar",
+            "content": "e965"
+        },
+        {
+            "class": "icon-nav-filme",
+            "content": "e966"
+        },
+        {
+            "class": "icon-nav-imprimir",
+            "content": "e967"
+        },
+        {
+            "class": "icon-nav-informacoes",
+            "content": "e968"
+        },
+        {
+            "class": "icon-nav-login",
+            "content": "e969"
+        },
+        {
+            "class": "icon-nav-ocultar",
+            "content": "e96a"
+        },
+        {
+            "class": "icon-nav-pasta",
+            "content": "e96b"
+        },
+        {
+            "class": "icon-nav-produtos",
+            "content": "e96c"
+        },
+        {
+            "class": "icon-nav-remover",
+            "content": "e96d"
+        },
+        {
+            "class": "icon-nav-reportar",
+            "content": "e96e"
+        },
+        {
+            "class": "icon-nav-sair",
+            "content": "e96f"
+        },
+        {
+            "class": "icon-nav-seguir",
+            "content": "e970"
+        },
+        {
+            "class": "icon-nav-selecionar",
+            "content": "e971"
+        },
+        {
+            "class": "icon-nav-som",
+            "content": "e972"
+        },
+        {
+            "class": "icon-nav-visualizar",
+            "content": "e973"
+        },
+        {
+            "class": "icon-nav-voltar",
+            "content": "e974"
+        },
+        {
+            "class": "icon-info-anunciar",
+            "content": "e975"
+        },
+        {
+            "class": "icon-info-bloqueio-aberto",
+            "content": "e976"
+        },
+        {
+            "class": "icon-info-desconto-loja",
+            "content": "e977"
+        },
+        {
+            "class": "icon-info-dia-noite",
+            "content": "e978"
+        },
+        {
+            "class": "icon-info-diversidade",
+            "content": "e979"
+        },
+        {
+            "class": "icon-info-educacao",
+            "content": "e97a"
+        },
+        {
+            "class": "icon-info-emergencia",
+            "content": "e97b"
+        },
+        {
+            "class": "icon-info-empresa",
+            "content": "e97c"
+        },
+        {
+            "class": "icon-info-endereco",
+            "content": "e97d"
+        },
+        {
+            "class": "icon-info-estrategia",
+            "content": "e97e"
+        },
+        {
+            "class": "icon-info-familiar",
+            "content": "e97f"
+        },
+        {
+            "class": "icon-info-foto",
+            "content": "e980"
+        },
+        {
+            "class": "icon-info-funcionarios",
+            "content": "e981"
+        },
+        {
+            "class": "icon-info-ideia",
+            "content": "e982"
+        },
+        {
+            "class": "icon-info-incendio",
+            "content": "e983"
+        },
+        {
+            "class": "icon-info-informar",
+            "content": "e984"
+        },
+        {
+            "class": "icon-info-informatica",
+            "content": "e985"
+        },
+        {
+            "class": "icon-info-invalidez",
+            "content": "e986"
+        },
+        {
+            "class": "icon-info-ladrao",
+            "content": "e987"
+        },
+        {
+            "class": "icon-info-lavadeira",
+            "content": "e988"
+        },
+        {
+            "class": "icon-info-limpeza",
+            "content": "e989"
+        },
+        {
+            "class": "icon-info-livre-escolha",
+            "content": "e98a"
+        },
+        {
+            "class": "icon-info-localizar-mapa",
+            "content": "e98b"
+        },
+        {
+            "class": "icon-info-loja",
+            "content": "e98c"
+        },
+        {
+            "class": "icon-info-mobile",
+            "content": "e98d"
+        },
+        {
+            "class": "icon-info-morte",
+            "content": "e98e"
+        },
+        {
+            "class": "icon-info-nautico",
+            "content": "e98f"
+        },
+        {
+            "class": "icon-info-outros-seguros",
+            "content": "e990"
+        },
+        {
+            "class": "icon-info-perfil",
+            "content": "e991"
+        },
+        {
+            "class": "icon-info-pet",
+            "content": "e992"
+        },
+        {
+            "class": "icon-info-play",
+            "content": "e993"
+        },
+        {
+            "class": "icon-info-previdencia",
+            "content": "e994"
+        },
+        {
+            "class": "icon-info-qualidade",
+            "content": "e995"
+        },
+        {
+            "class": "icon-info-responsabilidade-civil",
+            "content": "e996"
+        },
+        {
+            "class": "icon-info-resultado-sorteio",
+            "content": "e997"
+        },
+        {
+            "class": "icon-info-solucoes-negocio",
+            "content": "e998"
+        },
+        {
+            "class": "icon-info-traducao",
+            "content": "e999"
+        },
+        {
+            "class": "icon-info-trofeu",
+            "content": "e99a"
+        },
+        {
+            "class": "icon-info-web",
+            "content": "e99b"
+        },
+        {
+            "class": "icon-fin-acordo",
+            "content": "e99c"
+        },
+        {
+            "class": "icon-fin-banco",
+            "content": "e99d"
+        },
+        {
+            "class": "icon-fin-boleto",
+            "content": "e99e"
+        },
+        {
+            "class": "icon-fin-caixa",
+            "content": "e99f"
+        },
+        {
+            "class": "icon-fin-cartao",
+            "content": "e9a0"
+        },
+        {
+            "class": "icon-fin-cheque",
+            "content": "e9a1"
+        },
+        {
+            "class": "icon-fin-compra-online",
+            "content": "e9a2"
+        },
+        {
+            "class": "icon-fin-comprar",
+            "content": "e9a3"
+        },
+        {
+            "class": "icon-fin-compras",
+            "content": "e9a4"
+        },
+        {
+            "class": "icon-fin-contribuicao",
+            "content": "e9a5"
+        },
+        {
+            "class": "icon-fin-custo",
+            "content": "e9a6"
+        },
+        {
+            "class": "icon-fin-debito-online",
+            "content": "e9a7"
+        },
+        {
+            "class": "icon-fin-deposito-cheque",
+            "content": "e9a8"
+        },
+        {
+            "class": "icon-fin-fatura",
+            "content": "e9a9"
+        },
+        {
+            "class": "icon-fin-industria",
+            "content": "e9aa"
+        },
+        {
+            "class": "icon-fin-investimento",
+            "content": "e9ab"
+        },
+        {
+            "class": "icon-fin-ir",
+            "content": "e9ac"
+        },
+        {
+            "class": "icon-fin-nota-fiscal",
+            "content": "e9ad"
+        },
+        {
+            "class": "icon-fin-pgbl",
+            "content": "e9ae"
+        },
+        {
+            "class": "icon-fin-poupanca",
+            "content": "e9af"
+        },
+        {
+            "class": "icon-fin-preco-acessivel",
+            "content": "e9b0"
+        },
+        {
+            "class": "icon-fin-premios",
+            "content": "e9b1"
+        },
+        {
+            "class": "icon-fin-receber",
+            "content": "e9b2"
+        },
+        {
+            "class": "icon-fin-recibo",
+            "content": "e9b3"
+        },
+        {
+            "class": "icon-fin-rendimento",
+            "content": "e9b4"
+        },
+        {
+            "class": "icon-fin-resgate",
+            "content": "e9b5"
+        },
+        {
+            "class": "icon-fin-sacar-cheque",
+            "content": "e9b6"
+        },
+        {
+            "class": "icon-fin-saldo",
+            "content": "e9b7"
+        },
+        {
+            "class": "icon-fin-sem-custo",
+            "content": "e9b8"
+        },
+        {
+            "class": "icon-fin-simulacao",
+            "content": "e9b9"
+        },
+        {
+            "class": "icon-fin-tranquilidade",
+            "content": "e9ba"
+        },
+        {
+            "class": "icon-fin-transferencia",
+            "content": "e9bb"
+        },
+        {
+            "class": "icon-doc-add-calendario",
+            "content": "e9bc"
+        },
+        {
+            "class": "icon-doc-alerta",
+            "content": "e9bd"
+        },
+        {
+            "class": "icon-doc-analisar",
+            "content": "e9be"
+        },
+        {
+            "class": "icon-doc-calendario",
+            "content": "e9bf"
+        },
+        {
+            "class": "icon-doc-carencia",
+            "content": "e9c0"
+        },
+        {
+            "class": "icon-doc-contratos",
+            "content": "e9c1"
+        },
+        {
+            "class": "icon-doc-dicionario",
+            "content": "e9c2"
+        },
+        {
+            "class": "icon-doc-documento",
+            "content": "e9c3"
+        },
+        {
+            "class": "icon-doc-form",
+            "content": "e9c4"
+        },
+        {
+            "class": "icon-doc-pdf",
+            "content": "e9c5"
+        },
+        {
+            "class": "icon-doc-prancheta",
+            "content": "e9c6"
+        },
+        {
+            "class": "icon-doc-protocolos",
+            "content": "e9c7"
+        },
+        {
+            "class": "icon-dados-cpf",
+            "content": "e9c8"
+        },
+        {
+            "class": "icon-dados-profissao",
+            "content": "e9c9"
+        },
+        {
+            "class": "icon-dados-sexo",
+            "content": "e9ca"
+        },
+        {
+            "class": "icon-dados-usuario",
+            "content": "e9cb"
+        },
+        {
+            "class": "icon-shop-estrela",
+            "content": "e9cc"
+        },
+        {
+            "class": "icon-shop-shopping",
+            "content": "e9cd"
+        },
+        {
+            "class": "icon-auto-autoridades",
+            "content": "e9ce"
+        },
+        {
+            "class": "icon-auto-cambio",
+            "content": "e9cf"
+        },
+        {
+            "class": "icon-auto-caminhao",
+            "content": "e9d0"
+        },
+        {
+            "class": "icon-auto-coberturas-adicionais",
+            "content": "e9d1"
+        },
+        {
+            "class": "icon-auto-completo",
+            "content": "e9d2"
+        },
+        {
+            "class": "icon-auto-condutor",
+            "content": "e9d3"
+        },
+        {
+            "class": "icon-auto-corretores",
+            "content": "e9d4"
+        },
+        {
+            "class": "icon-auto-oficinas-guinchos",
+            "content": "e9d5"
+        },
+        {
+            "class": "icon-auto-portas",
+            "content": "e9d6"
+        },
+        {
+            "class": "icon-auto-protecao",
+            "content": "e9d7"
+        },
+        {
+            "class": "icon-auto-sinistro",
+            "content": "e9d8"
+        },
+        {
+            "class": "icon-auto-tracar-rota",
+            "content": "e9d9"
+        },
+        {
+            "class": "icon-auto-veiculo",
+            "content": "e9da"
+        },
+        {
+            "class": "icon-atend-adicionar-contato",
+            "content": "e9db"
+        },
+        {
+            "class": "icon-atend-atendente",
+            "content": "e9dc"
+        },
+        {
+            "class": "icon-atend-cel",
+            "content": "e9dd"
+        },
+        {
+            "class": "icon-atend-celular",
+            "content": "e9de"
+        },
+        {
+            "class": "icon-atend-chat",
+            "content": "e9df"
+        },
+        {
+            "class": "icon-atend-chatbot",
+            "content": "e9e0"
+        },
+        {
+            "class": "icon-atend-email-envio",
+            "content": "e9e1"
+        },
+        {
+            "class": "icon-atend-email",
+            "content": "e9e2"
+        },
+        {
+            "class": "icon-atend-fixo",
+            "content": "e9e3"
+        },
+        {
+            "class": "icon-atend-presencial",
+            "content": "e9e4"
+        },
+        {
+            "class": "icon-atend-sms",
+            "content": "e9e5"
+        },
+        {
+            "class": "icon-atend-telefone",
+            "content": "e9e6"
+        },
+        {
+            "class": "icon-alerta-atencao",
+            "content": "e9e7"
+        },
+        {
+            "class": "icon-alerta-duvida",
+            "content": "e9e8"
+        },
+        {
+            "class": "icon-alerta-erro",
+            "content": "e9e9"
+        },
+        {
+            "class": "icon-alerta-sucesso",
+            "content": "e9ea"
+        },
+        {
+            "class": "icon-acess-cadeirante",
+            "content": "e9eb"
+        },
+        {
+            "class": "icon-acess-font-maior",
+            "content": "e9ec"
+        },
+        {
+            "class": "icon-acess-font-menor",
+            "content": "e9ed"
+        },
+        {
+            "class": "icon-acess-surdos",
+            "content": "e9ee"
+        },
+        {
+            "class": "icon-acess-baixa-visao",
+            "content": "e9ef"
+        }
+    ]
+}

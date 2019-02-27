@@ -1,0 +1,34 @@
+[
+    {
+        "class": "icon-auto-posto",
+        "content": "e900"
+    },
+    {
+        "class": "icon-viagem-abrangencia",
+        "content": "e901"
+    },
+    {
+        "class": "icon-acess-cadeirante",
+        "content": "e902"
+    },
+    {
+        "class": "icon-saude-acidentes",
+        "content": "e903"
+    },
+    {
+        "class": "icon-fin-acompanhamento-proposta",
+        "content": "e904"
+    },
+    {
+        "class": "icon-nav-adicionar",
+        "content": "e905"
+    },
+    {
+        "class": "icon-doc-add-calendario",
+        "content": "e906"
+    },
+    {
+        "class": "icon-fin-adicionar-carteira",
+        "content": "e907"
+    }
+]
