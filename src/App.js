@@ -25,6 +25,8 @@ const App = (props) => {
 
             <Button cor="preto" texto="Botão 3"></Button>
 
+            <Title title="Lista vinda de um json"></Title>
+
             <Library/>
         </div>
         
