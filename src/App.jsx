@@ -3,6 +3,7 @@ import Title from './Title';
 import Lista from './Lista';
 import Button from './Button';
 import Library from './Library';
+import API from './API';
 import './App.scss';
 
 const b = ['Huguinho', 'Zezinho', 'Luisinho'];
@@ -24,6 +25,10 @@ const App = (props) => {
             <Button cor="vermelho" texto="Botão 2"></Button>
 
             <Button cor="preto" texto="Botão 3"></Button>
+
+            <Title title="Lista vinda de uma API com AXIOS"></Title>
+            
+            <API />
 
             <Title title="Lista vinda de um json"></Title>
 
